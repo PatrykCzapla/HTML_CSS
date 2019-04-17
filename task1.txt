@@ -1,0 +1,28 @@
+﻿Wykorzystując wyłącznie języki HTML i CSS stwórz poprawną składniowo stronę
+analogiczną do tej z załączonych zrzutów ekranu.
+    * Strona składa się z 3 głównych części (1 pkt):
+      * Nagłówka z linkami nawigacyjnymi
+      * Części głównej
+      * Stopki
+    * Główna część zawiera dwa podelementy (1 pkt):
+      * Opis
+      * Zdjęcia
+    * Zdjęcia są prezentowane w układzie kratowym (1 pkt):
+      * 3 zdjęcia w wierszu kiedy rozmiar okna przeglądarki przekracza 1366 pikseli
+      * 2 zdjęcia w wierszu kiedy rozmiar okna przeglądarki przekracza 640 pikseli (ale nie 1366) (+1 pkt)
+      * 1 zdjęcia w wierszu kiedy rozmiar okna przeglądarki jest mniejszy niż 640 pikseli
+    * Zdjęcia zajmują łącznie 90% szerokości (1 pkt)
+    * Zdjęcia są wyśrodkowane w pionie (1 pkt)
+    * Zdjęcia mają odstępy pomiędzy sobą oraz od ramki zewnętrznej (1 pkt)
+    * Akapity są wyjustowane, a domyślnym krojem czcionki jest Constantia (1 pkt)
+    * Nagłówki są wyśrodkowane, ważniejszy nagłówek ma czcionkę 1.5 raza większą (a mniej ważny 1.25 raza) w stosunku do reszty tekstu,
+    a domyślnym krojem czcionki jest Corbel (1 pkt)
+    * Linki nie mają podkreślenia, mają stalowoszare tło, a ich domyślnym krojem czcionki jest Consolas (1 pkt)
+    * Części strony są otoczone stosownymi ramkami a zdefiniowane odstępy pomiędzy nimi a tekstem
+    są związane z romiarem czcionek (1 pkt)
+
+UWAGA:
+    * Style powinny być zdefiniowane w płaskiej strukturze
+    * Nazwy klas CSS powinny wskazywać na funkcję elementu w treści strony
+    * Obrazki powinny być zdefiniowane zgodnie ze standardem HTML5
+    * Znaczek copyright jest zdefiniowany we właściwy dla HTMLa sposób
