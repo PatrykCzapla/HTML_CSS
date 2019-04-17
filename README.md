@@ -1,1 +1,1 @@
-HTML & CSS - task from laboratory at MiNI faculty of Warsaw University of Technology
+HTML & CSS - tasks from laboratory at MiNI faculty of Warsaw University of Technology
